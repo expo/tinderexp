@@ -1,0 +1,10 @@
+{
+  "name": "tinderexp",
+  "version": "0.0.0",
+  "description": "Hello Exponent!",
+  "main": "main.js",
+  "author": "brentvatne@gmail.com",
+  "dependencies": {
+    "react-native": "exponentjs/react-native#2015-10-08-xde"
+  }
+}
